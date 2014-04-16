@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-mock",
+  "version": "0.0.0",
+  "description": "Read a json file and use it for APIs.",
+  "main": "rest-api-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TAKANASHI Ginpei",
+  "license": "MIT License",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.2",
+    "argv": "0.0.2"
+  }
+}

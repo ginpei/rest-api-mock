@@ -1,0 +1,7 @@
+{
+    "tasks": [
+        { "id":1, "subject":"Buy milk", "finished":false },
+        { "id":2, "subject":"Fix my bike", "finished":true },
+        { "id":3, "subject":"Post a mail", "finished":false }
+    ]
+}
