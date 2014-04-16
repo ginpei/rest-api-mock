@@ -18,7 +18,7 @@ Make a JSON file, for example "db.json", like:
 }
 ```
 
-### Run
+### Start
 
 Start this mock server.
 
