@@ -1,5 +1,7 @@
 # REST Api Mock
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ginpei/rest-api-mock.svg)](https://greenkeeper.io/)
+
 Read a json file and use it for APIs.
 
 ## Usage
