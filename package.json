@@ -9,8 +9,8 @@
   "author": "TAKANASHI Ginpei",
   "license": "MIT License",
   "dependencies": {
-    "express": "~4.0.0",
-    "body-parser": "~1.0.2",
+    "express": "~4.15.2",
+    "body-parser": "~1.17.1",
     "argv": "0.0.2"
   }
 }
